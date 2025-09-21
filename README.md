@@ -1,5 +1,5 @@
 # dvd-rental-business-analytics
-*Academic Database Management Project*: See original_project_documentation.pdf for complete academic project report.
+*Academic Database Management Project*: See DVD_Rental_Analysis_Project_2023.pdf for complete academic project report.
 
 Business intelligence system analyzing DVD rental data to identify underperforming inventory and optimize business decisions. Built with PostgreSQL, custom functions, automated triggers, and scheduled procedures.
 
